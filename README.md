@@ -12,10 +12,10 @@ A: I want to have a way to start a project without spending time on the tooling 
 - vite 6 ✅
 - eslint 9.1 ✅
 - prettier 3.2 ✅
+- MaterialUI (community) ✅
 
 ## TODO next
 
-- i need a set of UI-components (mui community)
 - i need testing tools (vitest + rtl)
 - i need UI testing tool (storybook)
 - i need e2e testing tool (playwright)
