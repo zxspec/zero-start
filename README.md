@@ -10,13 +10,14 @@ A: I want to have a way to start a project without spending time on the tooling 
 - typescript 5.6 ✅
 - turborepo 2.3 ✅
 - vite 6 ✅
+- vitest 2.1 ✅
 - eslint 9.1 ✅
 - prettier 3.2 ✅
 - MaterialUI (community) ✅
 
 ## TODO next
 
-- i need testing tools (vitest + rtl)
+- i need RTL
 - i need UI testing tool (storybook)
 - i need e2e testing tool (playwright)
 - add app example with SSR based on https://github.com/bluwy/create-vite-extra/tree/master/template-ssr-react-ts
