@@ -14,10 +14,10 @@ A: I want to have a way to start a project without spending time on the tooling 
 - eslint 9.1 ✅
 - prettier 3.2 ✅
 - MaterialUI (community) ✅
+- RTL 16.1 ✅
 
 ## TODO next
 
-- i need RTL
 - i need UI testing tool (storybook)
 - i need e2e testing tool (playwright)
 - add app example with SSR based on https://github.com/bluwy/create-vite-extra/tree/master/template-ssr-react-ts
@@ -40,3 +40,4 @@ A: I want to have a way to start a project without spending time on the tooling 
 - https://tanstack.com/query/latest
 - https://www.udemy.com/course/vite-developers-guide/
 - https://victorlillo.dev/blog/react-typescript-vite-component-library
+- https://testing-library.com/docs/react-testing-library/setup#using-without-jest - RTL setup with Vitest
