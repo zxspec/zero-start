@@ -15,10 +15,10 @@ A: I want to have a way to start a project without spending time on the tooling 
 - prettier 3.2 ✅
 - MaterialUI (community) ✅
 - RTL 16.1 ✅
+- Storybook 8.4 ✅
 
 ## TODO next
 
-- i need UI testing tool (storybook)
 - i need e2e testing tool (playwright)
 - add app example with SSR based on https://github.com/bluwy/create-vite-extra/tree/master/template-ssr-react-ts
 
