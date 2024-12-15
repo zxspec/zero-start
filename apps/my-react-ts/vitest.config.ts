@@ -5,6 +5,7 @@ export default mergeConfig(
   viteConfig,
   defineConfig({
     test: {
+      exclude: ["e2e**/*.spec.*"],
       globals: true,
       environment: "jsdom",
     },
